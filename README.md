@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **For the HORDE!**
 
+- ⚡ Contact e-mail: wendeldaniel263@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wendel-daniel-ba36aa237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendel daniel" height="30" width="40" /></a>
