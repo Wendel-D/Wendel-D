@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my repository](https://wendel-d.github.io/)
 
-- 🌱 I’m currently learning **SQL in Trybe**
+- 🌱 I’m currently learning **POO and SOLID in Trybe**
 
 - ⚡ Fun fact **For the HORDE!**
 
