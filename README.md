@@ -15,7 +15,7 @@
  
 <div align="center">
   <a href="https://github.com/wendel-D">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Wendel-D&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Wendel-D&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-D&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
